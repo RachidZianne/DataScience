@@ -1,9 +1,9 @@
 # Python Data Science Tutorials 
 - This repo contains a curated list of Python tutorials for Data Science, NLP and Machine Learning.
 
-- [**Curated list of R tutorials for Data Science, NLP and Machine Learning**](https://github.com/ujjwalkarn/DataScienceR).
+- [**Curated list of R tutorials for Data Science, NLP and Machine Learning**](https://github.com/RachidZianne/DataScienceR).
 
-- [Comprehensive topic-wise list of Machine Learning and Deep Learning tutorials, codes, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md).
+- [Comprehensive topic-wise list of Machine Learning and Deep Learning tutorials, codes, articles and other resources](https://github.com/RachidZianne/Machine-Learning-Tutorials/blob/master/README.md).
 
 ## The Python Language
 - [Python 3 in one picture](https://fossbytes.com/wp-content/uploads/2015/09/python-3-in-one-pic.png)
@@ -50,7 +50,7 @@
 - [**How do I learn data analysis with Python?**](https://www.quora.com/How-do-I-learn-data-analysis-with-Python?redirected_qid=2464720)
 - [What are some interesting things to do with Python?](https://www.quora.com/Python-programming-language-What-are-some-interesting-things-to-do-with-Python?redirected_qid=2324227)
 - [**Which is better for data analysis: R or Python?**](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python)
-- [**Web scraping in Python**](https://github.com/ujjwalkarn/Web-Scraping)
+- [**Web scraping in Python**](https://github.com/RachidZianne/Web-Scraping)
 - [The Guide to Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science-2)
 - [Python For Data Science - A Cheat Sheet For Beginners](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics)
 - [Top voted Python data science questions](http://datascience.stackexchange.com/questions/tagged/python)
@@ -202,7 +202,7 @@
 
 ## Sentiment Analysis with Python
 - [A Comprehensive Guide to Sentiment Analysis](https://monkeylearn.com/sentiment-analysis/)
-- [Twitter-Sentiment-Analysis](https://github.com/ujjwalkarn/Twitter-Sentiment-Analysis)
+- [Twitter-Sentiment-Analysis](https://github.com/RachidZianne/Twitter-Sentiment-Analysis)
 - [Basic Sentiment Analysis with Python](http://fjavieralba.com/basic-sentiment-analysis-with-python.html)
 - [What is the best way to do Sentiment Analysis with Python?](https://www.quora.com/What-is-the-best-way-to-do-Sentiment-Analysis-with-Python-1)
 - [How to Calculate Twitter Sentiment Using AlchemyAPI with Python](http://www.alchemyapi.com/developers/getting-started-guide/twitter-sentiment-analysis)
